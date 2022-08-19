@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "42965d68-4abf-4f6c-ac8b-86f380dc365c",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3333/users",
+    "url": "http://localhost:3333/users",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-08-19T19:41:10.611Z",
+    "modified": "2022-08-19T20:16:38.394Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"Matheus Alves Pereira\",\n  \"email\": \"matttalves@gmail.com\",\n  \"password\": \"123456\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
